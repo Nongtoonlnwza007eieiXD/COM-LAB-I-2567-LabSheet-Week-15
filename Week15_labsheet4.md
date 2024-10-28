@@ -41,3 +41,5 @@
 
 ![alt text](./Pictures/image-41.png)
 
+ผลการทดลอง test run
+![image](https://github.com/user-attachments/assets/eb33b35c-f09e-4b96-96a3-504554ff5750)
